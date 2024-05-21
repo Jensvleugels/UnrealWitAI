@@ -28,7 +28,7 @@ app.get("/api/file", async (req, res) => {
       fileContent,
       {
         headers: {
-          Authorization: "Bearer 7J4QMLPQLOJOKOGD5TONAVIHQ2QOQR3J",
+          Authorization: "Bearer ",
           "Content-Type": contentType,
         },
       }
